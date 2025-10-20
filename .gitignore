@@ -171,3 +171,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.tomls
+
+
+# MLflow
+mlruns/
+mlflow.log/
