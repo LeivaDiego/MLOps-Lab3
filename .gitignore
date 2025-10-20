@@ -176,3 +176,6 @@ __marimo__/
 # MLflow
 mlruns/
 mlflow.log/
+
+# Feast
+california_feature_store/
